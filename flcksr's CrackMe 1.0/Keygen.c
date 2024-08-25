@@ -6,31 +6,18 @@
 
 
 #pragma clang diagnostic push
-
-/*
+//comment from dev0, on crackmes.one,
+/* 
  * (1) 4409 is the first four digits
-(2) must contain 3 8s    x
-(3) must not contain a 4 x
-(4) 20 digits (will be formatted to (\d{4}-){4}\d{4} x
-(5) 5 or more unique digits used                                    dont need to check this, most generated keys will work...
-(6) after the 4409, no consecutive repeating digits x
-(7) sum of all the digits must be 104 x
-(8) contain 2+ digits from [2357] x
-(9) last digit must be odd x
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- * */
+(2) must contain 3 8s    
+(3) must not contain a 4 
+(4) 20 digits (will be formatted to (\d{4}-){4}\d{4} 
+(5) 5 or more unique digits used                                    (dont need to check this, most generated keys will work...)
+(6) after the 4409, no consecutive repeating digits 
+(7) sum of all the digits must be 104 
+(8) contain 2+ digits from [2357] 
+(9) last digit must be odd 
+ */
 
 
 
